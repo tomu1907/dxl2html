@@ -1,4 +1,4 @@
-# DXL2HTML Converter in Powershell
+# DXL2HTML Converter in Powershell and Python
 
 Convert **Lotus Notes / HCL Notes mail** exported as **DXL** (Domino XML) into clean, self-contained **HTML** – including **attachments**, which are extracted and made available to open or save.
 
